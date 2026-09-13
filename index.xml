@@ -1,6 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <dataIndex xmlns="http://www.battlescribe.net/schema/dataIndexSchema" battleScribeVersion="2.03" name="HH3 Ported Additions - HH1 Unbound Add-on">
+  <repositoryUrls>
+    <repositoryUrl>https://raw.githubusercontent.com/kobychapmans-ship-it/Hh3.0-conversion2/main/index.bsi</repositoryUrl>
+  </repositoryUrls>
   <dataIndexEntries>
-    <dataIndexEntry filePath="HH3.Ported.Additions.Unbound.Force.catz" dataType="catalogue" dataId="32c26c6b-be8a-544e-a96e-961b73e235da" dataName="(HH V1 Add-on) HH3 Ported Additions - Unbound Force" dataBattleScribeVersion="2.03" dataRevision="1" />
+    <dataIndexEntry filePath="The.Horus.Heresy.gstz" dataType="gamesystem" dataId="ca571888-56a9-c58e-ddaf-54f4713538bc" dataName="(HH V1) Warhammer 30,000 - The Horus Heresy" dataBattleScribeVersion="2.03" dataRevision="165" />
+    <dataIndexEntry filePath="HH3.Ported.Additions.Unbound.Force.catz" dataType="catalogue" dataId="32c26c6b-be8a-544e-a96e-961b73e235da" dataName="(HH V1 Add-on) HH3 Ported Additions - Unbound Force" dataBattleScribeVersion="2.03" dataRevision="2" />
   </dataIndexEntries>
 </dataIndex>
