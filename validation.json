@@ -1,0 +1,12 @@
+{
+  "catalogue_name": "(HH V1 Add-on) HH3 Ported Additions - Unbound Force",
+  "catalogue_id": "32c26c6b-be8a-544e-a96e-961b73e235da",
+  "game_system_id": "ca571888-56a9-c58e-ddaf-54f4713538bc",
+  "structured_units": 32,
+  "rules_sections": 44,
+  "consul_upgrades": 5,
+  "standalone_weapons": 27,
+  "duplicate_ids": [],
+  "catz_zip_error": null,
+  "index_bsi_zip_error": null
+}

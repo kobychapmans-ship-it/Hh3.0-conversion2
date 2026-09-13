@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dataIndex xmlns="http://www.battlescribe.net/schema/dataIndexSchema" battleScribeVersion="2.03" name="HH3 Ported Additions - HH1 Unbound Add-on">
+  <dataIndexEntries>
+    <dataIndexEntry filePath="HH3.Ported.Additions.Unbound.Force.catz" dataType="catalogue" dataId="32c26c6b-be8a-544e-a96e-961b73e235da" dataName="(HH V1 Add-on) HH3 Ported Additions - Unbound Force" dataBattleScribeVersion="2.03" dataRevision="1" />
+  </dataIndexEntries>
+</dataIndex>
