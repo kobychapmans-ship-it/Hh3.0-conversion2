@@ -1,3 +1,16 @@
+# HH3 Ported Additions - Release-ready repository
+
+For the most reliable BattleScribe installation, create a GitHub Release after uploading this repository.
+The included `publish-catpkg.yml` workflow will generate the official `.bsi`, `.bsr`, `.catz`, and `.gstz` release assets.
+
+Use this URL in BattleScribe after the first release finishes publishing:
+
+`https://github.com/kobychapmans-ship-it/Hh3.0-conversion2/releases/latest/download/Hh3.0-conversion2.latest.bsi`
+
+The raw `main/index.bsi` file is retained as a fallback, but the release asset URL is the recommended installation path.
+
+---
+
 # HH3 Ported Additions - Unbound Force (BattleScribe Complete v1.1)
 
 This repository is an add-on catalogue for the original Horus Heresy 1.0 BattleScribe game system.
